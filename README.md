@@ -15,7 +15,7 @@
 
 - ❤ Hacking staffs [Projects Works](https://github.com/logesh-works?tab=repositories)
 
-- 👨‍💻 My portfolio Website [www.logesh.xyz](www.logesh.tech)
+- 👨‍💻 My portfolio Website [www.logesh.tech](www.logesh.tech)
 
 - ✨ Interested In [Astronomy,physics,music](Astronomy,physics,music)
 
